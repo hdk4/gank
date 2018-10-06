@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "private": true,
   "author": "xovel <xovel@vip.qq.com>",
-  "homepage": "https://github.com/hdk4/garden/tree/master/src/gank",
+  "homepage": "https://github.com/hdk4/gank",
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
