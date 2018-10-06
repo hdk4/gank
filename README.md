@@ -1,16 +1,40 @@
 # gank
 
-## Project setup
+A gank client based on vue.
+
+## Technology Stack
+
+- [vue2](https://vuejs.org/)
+- [vue-cli3](https://cli.vuejs.org/)
+- [vue-router](https://router.vuejs.org/)
+- [vuex](https://vuex.vuejs.org/)
+- [axios](https://github.com/axios/axios)
+- [webpack](https://webpack.js.org/)
+
+## Special Thanks To
+
+- [gank](https://gank.io/)
+
+## Setup
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Run
+
+```
+yarn run dev
+```
+
+or
+
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+## Build
+
 ```
 yarn run build
 ```
